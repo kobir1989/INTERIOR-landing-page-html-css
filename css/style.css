@@ -132,3 +132,76 @@ nav {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.7);
   transform: translateY(-0.5rem);
 }
+@media {
+  .nav__logo {
+    font-size: 0.8rem;
+  }
+  .nav__items {
+    padding-left: 5%;
+  }
+  .nav__items ul li {
+    font-size: 0.8rem;
+  }
+  .nav__item-call {
+    font-size: 0.8rem;
+  }
+
+  .header__text {
+    padding: 25% 5%;
+    width: 60%;
+  }
+  .header__text h1 {
+    font-size: 2rem;
+  }
+  .header__text button {
+    margin-top: 15%;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    border-radius: 3rem;
+    width: 8rem;
+  }
+  .bg {
+    width: 8rem;
+    height: 6rem;
+    padding: 1%;
+    font-size: 0.6rem;
+    text-align: center;
+  }
+  .icon {
+    width: 2rem;
+    height: 2rem;
+    padding: 0.5rem;
+    margin-bottom: 10%;
+    font-size: 0.8rem;
+  }
+
+  .header__box-1 {
+    position: absolute;
+    right: 0;
+    top: 15%;
+  }
+  .header__box-2 {
+    position: absolute;
+    left: 60%;
+    top: 50%;
+  }
+  .border__design-1 {
+    height: 2rem;
+  }
+  .border__design-2 {
+    width: 2rem;
+    right: -26%;
+  }
+  .round {
+    width: 1rem;
+    height: 1rem;
+    background-color: #fff;
+    border-radius: 100%;
+  }
+  .round-1 {
+    margin: 2rem -0.5rem;
+  }
+  .round-2 {
+    margin: -0.5rem 2rem;
+  }
+}
