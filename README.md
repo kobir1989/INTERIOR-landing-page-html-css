@@ -11,4 +11,4 @@ note: (breaks at screen size bellow 400px)
 
 ## Created by Kobir Hossain
 
-### Live Deployed website link [Netlify]()
+### Live Deployed website link [Netlify](https://brilliant-selkie-3d1549.netlify.app/)
